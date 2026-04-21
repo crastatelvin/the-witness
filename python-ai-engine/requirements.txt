@@ -1,0 +1,8 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+langchain==0.1.13
+langchain-community==0.0.29
+chromadb==0.4.24
+pydantic==2.6.4
+ollama==0.1.7
+websockets==12.0
