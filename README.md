@@ -37,6 +37,11 @@
 | 📈 **Prakriti Monitor (Daemon)** | Low-overhead system monitoring tracking CPU/RAM spikes and log frequency. |
 | 🧠 **Local AI / RAG Engine** | Ingests non-dual philosophy texts (Ashtavakra Gita, Zen) into a local vector store to map technical issues to philosophical insights. |
 | 👁️ **VS Code Intervention UI** | Gracefully dims the active editor state and presents a serene overlay when system stress reaches a critical threshold. |
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](./LICENSE).
+
 | 🌌 **God-Level Dashboard** | Built with Next.js and `framer-motion`, featuring ambient glassmorphism and real-time live telemetry over WebSockets. |
 | 🔒 **Privacy-First** | 100% local processing. Your proprietary code and error stack traces never leave the machine. |
 
@@ -103,7 +108,3 @@ Built with ❤️ by [Crasta Telvin](https://github.com/crastatelvin)
 ⭐ Star this repo if you find it useful!
 
 </div>
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](./LICENSE).
